@@ -28,8 +28,7 @@ source virt/bin/activate
 
 To install the necessary pip packages into the environment, run:
 ``` bash
-pip install imutils
-pip install opencv-python
+pip install requirements.txt
 ```
 
 Finally, to run the Python application, run:
