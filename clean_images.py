@@ -4,9 +4,6 @@ import cv2
 from send2trash import send2trash
 import hashlib
 
-
-
-
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--images", required=True,
