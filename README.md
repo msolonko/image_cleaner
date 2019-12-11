@@ -37,4 +37,6 @@ Finally, to run the Python application, run:
 python clean_images.py -i test_images
 ```
 
-Replace `test_images` with your own path if you would like. Also, the blurriness detection is not perfect, so there might be some unnecessary removals or undeleted blurry images. Check your recycling bin to ensure nothing of value was deleted (much faster than going image by image). Enjoy!
+After running the above command on `test_images`, the directory should only have unique and clear images left. Please use with caution with your own images.
+
+Replace `test_images` with your own path. Also, the blurriness detection is not perfect, so there might be some unnecessary removals or undeleted blurry images. Check your recycling bin to ensure nothing of value was deleted (much faster than going image by image). Enjoy!
