@@ -28,7 +28,7 @@ source virt/bin/activate
 
 To install the necessary pip packages into the environment, run:
 ``` bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Finally, to run the Python application, run:
